@@ -8,7 +8,7 @@ namespace DataStructuresApp
 {
     class Program
     {
-        //please tell me this works
+        
         static void Main(string[] args)
         {
         }
